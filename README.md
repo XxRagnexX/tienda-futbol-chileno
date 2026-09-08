@@ -37,3 +37,7 @@ tienda-futbol-chileno/
 ├── index.html
 ├── .gitignore
 └── README.md
+
+## Objetivo
+
+Desarrollar una tienda web funcional utilizando HTML, CSS y JavaScript, aplicando conceptos de desarrollo frontend, validaciones, manejo de datos y trabajo colaborativo mediante GitHub.

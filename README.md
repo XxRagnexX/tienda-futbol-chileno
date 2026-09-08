@@ -25,19 +25,6 @@ La aplicación corresponde a una tienda online enfocada en ropa y camisetas de e
 - Sección administrativa
 - Diseño responsivo
 
-## Estructura del proyecto
-
-```text
-tienda-futbol-chileno/
-├── admin/
-├── imagenes/
-├── pages/
-├── scripts/
-├── styles/
-├── index.html
-├── .gitignore
-└── README.md
-
 ## Objetivo
 
 Desarrollar una tienda web funcional utilizando HTML, CSS y JavaScript, aplicando conceptos de desarrollo frontend, validaciones, manejo de datos y trabajo colaborativo mediante GitHub.

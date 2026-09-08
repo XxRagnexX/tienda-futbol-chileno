@@ -28,3 +28,9 @@ La aplicación corresponde a una tienda online enfocada en ropa y camisetas de e
 ## Objetivo
 
 Desarrollar una tienda web funcional utilizando HTML, CSS y JavaScript, aplicando conceptos de desarrollo frontend, validaciones, manejo de datos y trabajo colaborativo mediante GitHub.
+
+## Asignatura
+
+Desarrollo Fullstack II
+Duoc UC
+2026
